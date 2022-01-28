@@ -1,2 +1,2 @@
 # Python-calculator
-Calculator in Python using PYQT5
+A simple calculator using Python and PYQT5
